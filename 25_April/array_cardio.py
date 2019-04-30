@@ -1,5 +1,4 @@
 def find_pair(socks):
-    matches = []
     singles = []
     pairs = 0
 
