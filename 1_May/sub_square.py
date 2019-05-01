@@ -16,10 +16,10 @@ def find_sum(list):
     print(sub_5, sub_6)
     print(sub_7, sub_8)
 
-    sum1 = sum(sub_1) + sum(sub_2)
-    sum2 = sum(sub_3) + sum(sub_4)
-    sum3 = sum(sub_5) + sum(sub_6)
-    sum4 = sum(sub_7) + sum(sub_8)
+    sum1 = sum(sub_1) + sum(sub_3)
+    sum2 = sum(sub_2) + sum(sub_4)
+    sum3 = sum(sub_5) + sum(sub_7)
+    sum4 = sum(sub_6) + sum(sub_8)
 
     print(sum1, sum2)
     print(sum3, sum4)
